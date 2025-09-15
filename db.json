@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "name": "Nguyen Van A",
+      "age": 20,
+      "mssv": "SV001"
+    },
+    {
+      "name": "Tran Thi B",
+      "age": 21,
+      "mssv": "SV002"
+    },
+    {
+      "name": "Le Van C",
+      "age": 19,
+      "mssv": "SV003"
+    },
+    {
+      "name": "Nguyen Tan Khai",
+      "age": 19,
+      "mssv": "SV004",
+      "id": "240a"
+    }
+  ]
+}
